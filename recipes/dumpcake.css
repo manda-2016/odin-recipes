@@ -1,0 +1,32 @@
+
+body {
+    background-color: lightblue;
+}
+
+.title {
+    text-align: center;
+    margin: 0 40px;
+    padding: 5px; 
+}
+
+img {
+    margin: auto; 
+    padding: inherit;
+    display: block;
+}
+
+
+.card {
+    outline: 2px solid black;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    margin-bottom:10px;
+    padding-bottom: 20px;
+    color: brown;
+}
+
